@@ -1,0 +1,7 @@
+[submodule "goskills/themes/paper"]
+	path = goskills/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "goskills/public"]
+	path = goskills/public
+	url = https://github.com/gopheramol/godev.git
+	branch = main
